@@ -4,8 +4,6 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import { HeroesComponent } from './heroes/heroes.component';
 import { HeroDetailComponent } from './hero-detail/hero-detail.component';
-import { MComponent } from './m/m.component';
-import { ComponentComponent } from './component/component.component';
 import { MessagesComponent } from './messages/messages.component';
 
 @NgModule({
